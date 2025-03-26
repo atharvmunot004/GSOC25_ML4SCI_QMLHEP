@@ -1,0 +1,3 @@
+ipykernel
+cirq
+cirq_google
