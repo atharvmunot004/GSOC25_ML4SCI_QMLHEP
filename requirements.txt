@@ -1,3 +1,4 @@
 ipykernel
 cirq
 cirq_google
+torch torch-geometric
